@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sindhumadanala/leetcode/tree/master/0136-single-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sindhumadanala/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -46,4 +47,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sindhumadanala/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sindhumadanala/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
